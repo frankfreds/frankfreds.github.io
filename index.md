@@ -21,7 +21,7 @@ Accessing evidence-based literature via Hinari resources | Introduction to condu
 
 The in-person workshops will be followed by a live webinar series for continued support to complete a systematic review. Webinars will take place online over the course of 12 months. 
  
-### FREE to attend
+### [FREE to attend](index.md)
 ### Registration is REQUIRED--Please register [here](http://bit.ly/access_register)
 #### See [the workshop details page](https://rootsandberries.github.io/UZim_SRWorkshop/details) for more information.
 
