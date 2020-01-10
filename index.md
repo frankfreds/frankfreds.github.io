@@ -1,27 +1,22 @@
-### FREE information access and systematic review workshops!
-#### University of Zimbabwe, Harare, Zimbabwe
-#### July 22-23 and July 24-26, 2019 including a post-workshop webinar series 
 
+## **Workshop Details**
 
-#### Register at  [http://bit.ly/access_register](http://bit.ly/access_register)
- 
-Hinari provides low and middle-income countries access to high-quality biomedical and health literature, which promotes evidence-based practice on a global scale.  Learn more about Hinari @ [http://www.who.int/hinari/en/](http://www.who.int/hinari/en/).
+ ...| Workshop 1 | Workshop 2
+ ---------------|-----------------|-------|
+ Title | Accessing evidence-based literature via Hinari resources                 | Introduction to conducting systematic reviews, publishing and author resources
+ Dates| July 22-23, 2019 (Mon-Tues); 8:30am-4:30pm | July 24-26, 2019 (Wed-Fri); 8:30am-4:30pm
+ Goals|  (1) obtain an understanding of the evidence-based process (2) effectively and efficiently use Hinari/R4L evidence-based resources to obtain high-quality, authoritative information to support healthcare endeavors | (1) understand the purpose and method of conducting a systematic review (2) refine a systematic review question and draft a comprehensive search strategy (3) understand academic publishing from author perspective (copyright, plagiarism, and writing support resources) (4) use citation management software to organize references and create bibliographies
+Content| (1) Hinari overview (2) Overview of Evidence-based practice process (3) Database searching (4) Access books, full-text journal articles and grey literature via various Hinari and online resources | This workshop and series aims to get you started on a systematic review, and support you through the process of completing your review. 
 
-This FREE workshop is open to librarians, clinicians, residents, health sciences and public health students, researchers, and global health workers from Hinari registered institutions in or near Harare, Zimbabwe.  **Teams interested in conducting systematic reviews are highly encouraged to attend, particularly librarian/researcher teams**.
- 
-Participants of this two-part workshop will obtain 1) the skills to access evidence-based literature via Hinari resources, and 2) hands-on experience in conducting systematic reviews.
+### **Webinar Series**
 
-#### **In-person instruction consists of 5-days of training split into two workshops at the University of Zimbabwe, College of Health Sciences.  Attend either one or both workshops.**
+The in-person workshop will be followed by a webinar series to take place over the course of 12 months. Webinars will cover topics such as using software to manage the systematic review process, assessing study quality and risk of bias, meta-analysis and more. The goal of the webinars is to support workshop participants as the proceed through the process of conducting a systematic review.
 
-Workshop 1 | Workshop 2
------------|-----------
-July 22-23, 2019 (Monday & Tuesday) | July 24-26, 2019 (Wednesday, Thursday & Friday)
-Accessing evidence-based literature via Hinari resources | Introduction to conducting systematic reviews, publishing and author resources
+### **Instructors/Facilitators**
+* **[Israel Dabengwa](https://zw.linkedin.com/in/israel-dabengwa-89632936)**, National University of Science and Technology in Bulawayo 
+* **[Erin Eldermire]( https://orcid.org/0000-0001-5846-4041)**, Head of the Flower-Sprecher Veterinary Library, Cornell University 
+* **[Masimba Muziringa](https://zw.linkedin.com/in/masimba-muziringa-39469835)**, University of Zimbabwe 
+* **[Karin Saric](https://nml.usc.edu/people/karin-saric/)**, Norris Medical Library, University of Southern California 
+* **[Sarah Young](https://www.library.cmu.edu/about/people/sarah-young)**, Subject Librarian for Social Sciences, Carnegie Mellon University
 
-
-The in-person workshops will be followed by a live webinar series for continued support to complete a systematic review. Webinars will take place online over the course of 12 months. 
- 
-### FREE to attend
-### Registration is REQUIRED--Please register [here](http://bit.ly/access_register)
-#### See [the workshop details page](https://rootsandberries.github.io/UZim_SRWorkshop/details) for more information.
-
+#### [Back to registration page](https://rootsandberries.github.io/UZim_SRWorkshop/)
